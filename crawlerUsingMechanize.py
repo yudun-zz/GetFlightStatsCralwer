@@ -7,8 +7,8 @@ import datetime
 target=('http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airport=%28EZE%29+Ministro+'
 'Pistarini+Airport&airportQueryDate=2011-05-04&airportQueryTime=12&airlineToFilter=&airportQu'
 'eryType=0&x=10&y=7')
-username='myyudun'
-password='0'
+username='***'
+password='***'
 base_url = 'https://www.flightstats.com'
 login_action = '/go/Login/login.do'
 login_url=base_url+login_action
